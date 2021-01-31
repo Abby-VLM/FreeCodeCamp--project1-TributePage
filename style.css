@@ -1,0 +1,53 @@
+main {
+  font-family: arial;
+ text-align: center;
+  background-color: #f5f3f0
+}
+
+h1 {
+  text-transform: uppercase;
+  padding: 20px;
+}
+
+.subheading {
+  font-size: 17px;
+  margin: 20px;
+}
+
+#image {
+  border-radius: 5%;
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+  max-width: 800px;
+  
+}
+
+figcaption {
+  
+  font-style: italic;
+  padding: 10px;
+  color: slategray;
+}
+
+h3 {
+  font-family: helvetica;
+    font-size: 22px;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+
+ul {
+  font-family: helvetica;
+  font-size: 16.5px;
+  line-height: 1.5;
+  padding: 20px;
+}
+
+
+footer {
+ font-family: courier;
+  font-size: 13px;
+}
